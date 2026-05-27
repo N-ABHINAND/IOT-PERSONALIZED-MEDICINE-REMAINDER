@@ -25,6 +25,14 @@ A smart healthcare-based application designed to remind users to take medicines 
 
 ---
 
+## 🟢 Project
+
+### IoT Device
+![IoT Image](iot.jpeg)
+
+### Display Output
+![Display Image](iotdisplay.jpeg)
+
 
 
 
